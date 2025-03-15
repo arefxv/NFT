@@ -1,6 +1,6 @@
 # NFT Contracts - Foundry Project
 
-This repository contains 10 smart contracts built using Foundry. It includes implementations for two types of NFTs—BasicNft (IPFS-hosted) and MoodNft (on-chain SVG)—along with deployment, minting, flipping, and testing scripts.
+This repository contains 10 smart contracts built using Foundry. It includes implementations for two types of NFTs—BasicNft (IPFS-hosted) and MoodNft (on-chain SVG)—along with deployment, minting, flipping, and testing scripts
 
 ---
 
