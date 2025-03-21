@@ -47,7 +47,7 @@ forge --version
 
 ### 1. BasicNft.sol
 
-* **Purpose** : Implements an ERC721 NFT hosted on IPFS.
+* **Purpose** : Implements an ERC721 NFT hosted on IPFS
 
 * **Key Features**:
 
